@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <div
+    style="width: 100%;"
+  >
+    <input
+      data-testid="input-cmp"
+      style="padding: 8px; font-size: 16px; margin-bottom: 12px; width: 100%; box-sizing: border-box;"
+      value="value"
+    />
+  </div>
+</div>
+`;

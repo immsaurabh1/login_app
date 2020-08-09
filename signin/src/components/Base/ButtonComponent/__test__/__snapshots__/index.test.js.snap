@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1`] = `
+<div>
+  <button
+    data-testid="btn-cmp"
+    id="test"
+    style="padding: 8px; font-size: 16px;"
+    title="Login"
+  >
+    Login
+  </button>
+</div>
+`;

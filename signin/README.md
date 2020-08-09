@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Steps to Run:
+
+    1. go to signin folder and run command `npm i`;
+    2. npm start
+    3. To run unit tests run this command `npm run test`
+
 ## Available Scripts
 
 In the project directory, you can run:
